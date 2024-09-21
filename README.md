@@ -41,8 +41,8 @@ Hey there! I’m a Tech ninja with a passion for exploring and building creative
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="Paanchajanya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Paanchajanya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Manoj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Manoj | Portfolio" width="22px" src="https://static.vecteezy.com/system/resources/thumbnails/024/244/899/small/user-profile-web-page-icon-or-symbol-vector.jpg" />][Portfolio]
 
 <br/>
 
@@ -50,3 +50,4 @@ Hey there! I’m a Tech ninja with a passion for exploring and building creative
 ---
 
 [linkedin]: https://www.linkedin.com/in/manojsahith/
+[Portfolio]: https://manojsahit.github.io/
