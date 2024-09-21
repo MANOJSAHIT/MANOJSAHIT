@@ -1,13 +1,8 @@
-### Hey, Krishna Paanchajanya here 👋
+### Hey, Manoj Sahit Reddy here 👋
 
 ---
 
-I am a Full-stack Web Developer and Cloud Engineer who has interest in various facets of tech from Programming to Augmented Reality and Blockchain. I am continuosly upgrading my skill set in computer science hand-in-hand reaching the pinnacle in academics to ideate and design a tool that has socio-economic relevance.
- 
- 🔭 I’m planning for a Project **Immerse** where we can initiate 3D online meetings for the main purpose of organizing online classes for students of any grade which shall hopefully induce deeper involvement of the student in the class when compared to a usual 2D online class meet.
- 
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"/> Google Cloud Platform
- 
+Hey there! I’m Manoj, a Tech ninja with a passion for exploring and building creative projects. My toolkit includes Python, JavaScript (Angular, React), and cloud platforms like AWS and Azure. I’m AWS certified Solutions Architect Professional and Data Engineer and have worked on some fun projects like a sign language detection app and a decentralized investment platform on blockchain. Whether it's using AWS SageMaker for machine learning or Web3 for blockchain magic, I love experimenting and pushing the boundaries of what’s possible.
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
 
