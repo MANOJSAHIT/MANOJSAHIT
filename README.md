@@ -16,7 +16,7 @@ Hey there! I’m a Tech ninja with a passion for exploring and building creative
 <br/>
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF&logoColor=white"/><img src="https://img.shields.io/badge/-SQL%20Server-red?style=flat&logo=microsoft-sql-server&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/-PHP-purple?style=flat&logo=php&logoColor=FFFFFF"/>
 <br/>
-<img src="https://img.shields.io/badge/-Microsoft%20Azure-blue?style=flat&logo=microsoft-azure&logoColor=white"/><img src="https://img.shields.io/badge/-AWS-orange?style=flat&logoColor=FFFFFF"/><img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Microsoft%20Azure-blue?style=flat&logo=microsoft-azure&logoColor=white"/><img src="https://img.shields.io/badge/-AWS-orange?style=flat&logoColor=FFFFFF"/>
 <br/>
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"/><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"/>
 <br/>
