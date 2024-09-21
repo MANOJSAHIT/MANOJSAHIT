@@ -3,6 +3,8 @@
 ---
 
 Hey there! I’m a Tech ninja with a passion for exploring and building creative projects. My toolkit includes Python, JavaScript (Angular, React), and cloud platforms like AWS and Azure. I’m AWS certified Solutions Architect Professional and Data Engineer and have worked on some fun projects like a sign language detection app and a decentralized investment platform on blockchain. Whether it's using AWS SageMaker for machine learning or Web3 for blockchain magic, I love experimenting and pushing the boundaries of what’s possible.
+
+
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
 
