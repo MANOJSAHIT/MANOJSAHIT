@@ -51,5 +51,4 @@ Hey there! I’m Manoj, a Tech ninja with a passion for exploring and building c
 
 ---
 
-[twitter]: https://twitter.com/KPaanchajanya
-[linkedin]: https://www.linkedin.com/in/krishna-paanchajanya-5454b71a0/
+[linkedin]: https://www.linkedin.com/in/manojsahith/
